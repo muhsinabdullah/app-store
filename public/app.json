@@ -1,0 +1,1652 @@
+[
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "PhotoMaster",
+        "companyName": "Pixely Inc",
+        "id": 1,
+        "description": "Edit photos like a pro.\nAdd filters and effects.\nCrop and resize images.\nEnhance photo quality.\nShare instantly on social media.",
+        "size": 120,
+        "reviews": 540,
+        "ratingAvg": 4.5,
+        "downloads": 150000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 20
+            },
+            {
+                "name": "2 star",
+                "count": 30
+            },
+            {
+                "name": "3 star",
+                "count": 60
+            },
+            {
+                "name": "4 star",
+                "count": 150
+            },
+            {
+                "name": "5 star",
+                "count": 280
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "TaskFlow",
+        "companyName": "WorkSmart Ltd",
+        "id": 2,
+        "description": "Organize your daily tasks.\nSet deadlines and priorities.\nTrack project progress.\nCollaborate with team members.\nGet productivity insights.",
+        "size": 80,
+        "reviews": 320,
+        "ratingAvg": 4.2,
+        "downloads": 90000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "3 star",
+                "count": 50
+            },
+            {
+                "name": "4 star",
+                "count": 100
+            },
+            {
+                "name": "5 star",
+                "count": 140
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "FitTrack",
+        "companyName": "Healthify",
+        "id": 3,
+        "description": "Track your fitness activities.\nMonitor calories burned.\nSet exercise goals.\nGet nutrition tips.\nStay motivated daily.",
+        "size": 95,
+        "reviews": 780,
+        "ratingAvg": 4.7,
+        "downloads": 210000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 15
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "3 star",
+                "count": 50
+            },
+            {
+                "name": "4 star",
+                "count": 200
+            },
+            {
+                "name": "5 star",
+                "count": 495
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "MusicWave",
+        "companyName": "SoundLabs",
+        "id": 4,
+        "description": "Stream millions of songs.\nCreate personalized playlists.\nOffline listening available.\nDiscover trending artists.\nHigh-quality audio experience.",
+        "size": 150,
+        "reviews": 1250,
+        "ratingAvg": 4.6,
+        "downloads": 500000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 30
+            },
+            {
+                "name": "2 star",
+                "count": 50
+            },
+            {
+                "name": "3 star",
+                "count": 120
+            },
+            {
+                "name": "4 star",
+                "count": 400
+            },
+            {
+                "name": "5 star",
+                "count": 650
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "TravelMate",
+        "companyName": "GlobeTrek",
+        "id": 5,
+        "description": "Plan your trips easily.\nBook flights and hotels.\nGet travel recommendations.\nTrack itineraries.\nShare your travel experiences.",
+        "size": 200,
+        "reviews": 430,
+        "ratingAvg": 4.3,
+        "downloads": 120000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 15
+            },
+            {
+                "name": "2 star",
+                "count": 25
+            },
+            {
+                "name": "3 star",
+                "count": 70
+            },
+            {
+                "name": "4 star",
+                "count": 150
+            },
+            {
+                "name": "5 star",
+                "count": 170
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "CookBook",
+        "companyName": "TastyApps",
+        "id": 6,
+        "description": "Discover new recipes.\nStep-by-step cooking instructions.\nSave your favorite meals.\nCreate shopping lists.\nShare recipes with friends.",
+        "size": 85,
+        "reviews": 290,
+        "ratingAvg": 4.1,
+        "downloads": 80000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 5
+            },
+            {
+                "name": "2 star",
+                "count": 15
+            },
+            {
+                "name": "3 star",
+                "count": 60
+            },
+            {
+                "name": "4 star",
+                "count": 100
+            },
+            {
+                "name": "5 star",
+                "count": 110
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "NoteKeeper",
+        "companyName": "BrainBox",
+        "id": 7,
+        "description": "Write notes quickly.\nOrganize by categories.\nSync across devices.\nAdd reminders and alerts.\nSecure with password protection.",
+        "size": 60,
+        "reviews": 410,
+        "ratingAvg": 4.4,
+        "downloads": 100000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "3 star",
+                "count": 60
+            },
+            {
+                "name": "4 star",
+                "count": 120
+            },
+            {
+                "name": "5 star",
+                "count": 200
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "BudgetBuddy",
+        "companyName": "FinancePro",
+        "id": 8,
+        "description": "Track your expenses.\nCreate monthly budgets.\nGet financial insights.\nSet savings goals.\nAnalyze spending habits.",
+        "size": 75,
+        "reviews": 530,
+        "ratingAvg": 4.5,
+        "downloads": 140000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 15
+            },
+            {
+                "name": "2 star",
+                "count": 25
+            },
+            {
+                "name": "3 star",
+                "count": 60
+            },
+            {
+                "name": "4 star",
+                "count": 180
+            },
+            {
+                "name": "5 star",
+                "count": 250
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "MindSpace",
+        "companyName": "CalmMind",
+        "id": 9,
+        "description": "Meditation and relaxation app.\nGuided mindfulness sessions.\nTrack mental health progress.\nDaily motivation and tips.\nReduce stress and anxiety.",
+        "size": 90,
+        "reviews": 620,
+        "ratingAvg": 4.6,
+        "downloads": 170000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "3 star",
+                "count": 60
+            },
+            {
+                "name": "4 star",
+                "count": 200
+            },
+            {
+                "name": "5 star",
+                "count": 330
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "LanguageBuddy",
+        "companyName": "LearnFast",
+        "id": 10,
+        "description": "Learn new languages.\nInteractive lessons and quizzes.\nPractice speaking and writing.\nTrack your progress.\nDaily language challenges.",
+        "size": 110,
+        "reviews": 450,
+        "ratingAvg": 4.3,
+        "downloads": 130000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 15
+            },
+            {
+                "name": "2 star",
+                "count": 25
+            },
+            {
+                "name": "3 star",
+                "count": 80
+            },
+            {
+                "name": "4 star",
+                "count": 150
+            },
+            {
+                "name": "5 star",
+                "count": 180
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "WeatherNow",
+        "companyName": "SkyTech",
+        "id": 11,
+        "description": "Get live weather updates.\nForecast for any city.\nSevere weather alerts.\nInteractive weather maps.\nPlan your day accordingly.",
+        "size": 65,
+        "reviews": 380,
+        "ratingAvg": 4.2,
+        "downloads": 95000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "3 star",
+                "count": 60
+            },
+            {
+                "name": "4 star",
+                "count": 140
+            },
+            {
+                "name": "5 star",
+                "count": 150
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "ShopEasy",
+        "companyName": "EcomWorld",
+        "id": 12,
+        "description": "Browse and buy products.\nFast and secure checkout.\nTrack orders in real-time.\nDaily discounts and offers.\nPersonalized recommendations.",
+        "size": 140,
+        "reviews": 720,
+        "ratingAvg": 4.5,
+        "downloads": 230000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 20
+            },
+            {
+                "name": "2 star",
+                "count": 30
+            },
+            {
+                "name": "3 star",
+                "count": 100
+            },
+            {
+                "name": "4 star",
+                "count": 200
+            },
+            {
+                "name": "5 star",
+                "count": 370
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "MovieTime",
+        "companyName": "CineWorld",
+        "id": 13,
+        "description": "Watch latest movies.\nStream series online.\nHigh-quality video playback.\nCreate watchlists.\nReceive personalized suggestions.",
+        "size": 180,
+        "reviews": 890,
+        "ratingAvg": 4.6,
+        "downloads": 300000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 25
+            },
+            {
+                "name": "2 star",
+                "count": 35
+            },
+            {
+                "name": "3 star",
+                "count": 120
+            },
+            {
+                "name": "4 star",
+                "count": 250
+            },
+            {
+                "name": "5 star",
+                "count": 460
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "GameHub",
+        "companyName": "PlayWorks",
+        "id": 14,
+        "description": "Discover new games.\nPlay online with friends.\nTrack achievements and scores.\nDaily challenges and rewards.\nIn-game events and news.",
+        "size": 250,
+        "reviews": 1050,
+        "ratingAvg": 4.7,
+        "downloads": 450000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 30
+            },
+            {
+                "name": "2 star",
+                "count": 40
+            },
+            {
+                "name": "3 star",
+                "count": 150
+            },
+            {
+                "name": "4 star",
+                "count": 350
+            },
+            {
+                "name": "5 star",
+                "count": 480
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "ReadIt",
+        "companyName": "BookLovers",
+        "id": 15,
+        "description": "Read books online.\nOffline reading supported.\nBookmarks and notes.\nPersonalized reading lists.\nExplore new authors daily.",
+        "size": 100,
+        "reviews": 520,
+        "ratingAvg": 4.4,
+        "downloads": 160000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "3 star",
+                "count": 80
+            },
+            {
+                "name": "4 star",
+                "count": 180
+            },
+            {
+                "name": "5 star",
+                "count": 230
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "FitGoal",
+        "companyName": "ActiveLife",
+        "id": 16,
+        "description": "Set fitness targets.\nTrack workouts and steps.\nMonitor heart rate and calories.\nJoin challenges and events.\nGet weekly fitness reports.",
+        "size": 120,
+        "reviews": 610,
+        "ratingAvg": 4.5,
+        "downloads": 200000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 15
+            },
+            {
+                "name": "2 star",
+                "count": 25
+            },
+            {
+                "name": "3 star",
+                "count": 90
+            },
+            {
+                "name": "4 star",
+                "count": 200
+            },
+            {
+                "name": "5 star",
+                "count": 280
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "ArtStudio",
+        "companyName": "CreativeMinds",
+        "id": 17,
+        "description": "Draw and sketch digitally.\nUse professional tools.\nLayer and brush options.\nShare artwork with community.\nLearn new drawing techniques.",
+        "size": 130,
+        "reviews": 480,
+        "ratingAvg": 4.3,
+        "downloads": 140000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10
+            },
+            {
+                "name": "2 star",
+                "count": 15
+            },
+            {
+                "name": "3 star",
+                "count": 90
+            },
+            {
+                "name": "4 star",
+                "count": 180
+            },
+            {
+                "name": "5 star",
+                "count": 185
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "MeditateNow",
+        "companyName": "CalmTech",
+        "id": 18,
+        "description": "Guided meditation sessions.\nDaily mindfulness tips.\nTrack stress and mood.\nRelaxing soundscapes.\nImprove sleep quality.",
+        "size": 95,
+        "reviews": 550,
+        "ratingAvg": 4.6,
+        "downloads": 170000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10
+            },
+            {
+                "name": "2 star",
+                "count": 15
+            },
+            {
+                "name": "3 star",
+                "count": 50
+            },
+            {
+                "name": "4 star",
+                "count": 200
+            },
+            {
+                "name": "5 star",
+                "count": 275
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "TravelBuddy",
+        "companyName": "GoWorld",
+        "id": 19,
+        "description": "Plan vacations easily.\nBook hotels and flights.\nLocal guides and tips.\nTrack your itinerary.\nShare experiences with friends.",
+        "size": 180,
+        "reviews": 460,
+        "ratingAvg": 4.4,
+        "downloads": 130000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "3 star",
+                "count": 70
+            },
+            {
+                "name": "4 star",
+                "count": 180
+            },
+            {
+                "name": "5 star",
+                "count": 180
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "CodeMaster",
+        "companyName": "DevTools",
+        "id": 20,
+        "description": "Learn programming easily.\nPractice coding challenges.\nTrack progress over time.\nCollaborate with community.\nMultiple programming languages.",
+        "size": 150,
+        "reviews": 700,
+        "ratingAvg": 4.7,
+        "downloads": 220000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 20
+            },
+            {
+                "name": "2 star",
+                "count": 30
+            },
+            {
+                "name": "3 star",
+                "count": 100
+            },
+            {
+                "name": "4 star",
+                "count": 200
+            },
+            {
+                "name": "5 star",
+                "count": 350
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "NewsFlash",
+        "companyName": "MediaHub",
+        "id": 21,
+        "description": "Stay updated with latest news.\nPersonalized news feed.\nBreaking news alerts.\nSave articles to read later.\nShare news on social media.",
+        "size": 90,
+        "reviews": 620,
+        "ratingAvg": 4.4,
+        "downloads": 180000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 15
+            },
+            {
+                "name": "2 star",
+                "count": 25
+            },
+            {
+                "name": "3 star",
+                "count": 100
+            },
+            {
+                "name": "4 star",
+                "count": 180
+            },
+            {
+                "name": "5 star",
+                "count": 300
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "PhotoSnap",
+        "companyName": "PixelSoft",
+        "id": 22,
+        "description": "Capture moments instantly.\nApply filters and effects.\nCreate photo collages.\nShare on social networks.\nOrganize albums efficiently.",
+        "size": 120,
+        "reviews": 540,
+        "ratingAvg": 4.5,
+        "downloads": 160000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 20
+            },
+            {
+                "name": "2 star",
+                "count": 25
+            },
+            {
+                "name": "3 star",
+                "count": 90
+            },
+            {
+                "name": "4 star",
+                "count": 150
+            },
+            {
+                "name": "5 star",
+                "count": 255
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "HealthPal",
+        "companyName": "WellnessCorp",
+        "id": 23,
+        "description": "Track daily health metrics.\nMonitor water intake.\nLog meals and calories.\nReceive health tips.\nSet wellness goals.",
+        "size": 100,
+        "reviews": 720,
+        "ratingAvg": 4.6,
+        "downloads": 210000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10
+            },
+            {
+                "name": "2 star",
+                "count": 30
+            },
+            {
+                "name": "3 star",
+                "count": 90
+            },
+            {
+                "name": "4 star",
+                "count": 200
+            },
+            {
+                "name": "5 star",
+                "count": 390
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "FinanceTracker",
+        "companyName": "MoneyWise",
+        "id": 24,
+        "description": "Monitor personal finances.\nCreate budgets easily.\nTrack expenses and income.\nGenerate monthly reports.\nSet savings goals effectively.",
+        "size": 85,
+        "reviews": 430,
+        "ratingAvg": 4.3,
+        "downloads": 120000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "3 star",
+                "count": 80
+            },
+            {
+                "name": "4 star",
+                "count": 150
+            },
+            {
+                "name": "5 star",
+                "count": 170
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "RecipeBook",
+        "companyName": "Foodies",
+        "id": 25,
+        "description": "Discover new recipes daily.\nStep-by-step instructions.\nSave favorite dishes.\nCreate shopping lists.\nShare recipes with friends.",
+        "size": 95,
+        "reviews": 390,
+        "ratingAvg": 4.4,
+        "downloads": 110000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 5
+            },
+            {
+                "name": "2 star",
+                "count": 15
+            },
+            {
+                "name": "3 star",
+                "count": 80
+            },
+            {
+                "name": "4 star",
+                "count": 140
+            },
+            {
+                "name": "5 star",
+                "count": 150
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "TravelExplorer",
+        "companyName": "AdventureCo",
+        "id": 26,
+        "description": "Explore new destinations.\nBook flights and hotels.\nGet local recommendations.\nTrack itineraries easily.\nShare experiences with friends.",
+        "size": 180,
+        "reviews": 520,
+        "ratingAvg": 4.5,
+        "downloads": 150000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 15
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "3 star",
+                "count": 100
+            },
+            {
+                "name": "4 star",
+                "count": 180
+            },
+            {
+                "name": "5 star",
+                "count": 205
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "MindFocus",
+        "companyName": "CalmWorks",
+        "id": 27,
+        "description": "Improve concentration.\nGuided meditation sessions.\nTrack productivity.\nDaily focus challenges.\nStress reduction tips.",
+        "size": 90,
+        "reviews": 430,
+        "ratingAvg": 4.3,
+        "downloads": 130000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "3 star",
+                "count": 80
+            },
+            {
+                "name": "4 star",
+                "count": 150
+            },
+            {
+                "name": "5 star",
+                "count": 170
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "MusicStream",
+        "companyName": "SoundWave",
+        "id": 28,
+        "description": "Stream millions of songs.\nOffline playback available.\nCreate playlists easily.\nDiscover new artists.\nHigh-quality audio streaming.",
+        "size": 160,
+        "reviews": 880,
+        "ratingAvg": 4.6,
+        "downloads": 400000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 25
+            },
+            {
+                "name": "2 star",
+                "count": 35
+            },
+            {
+                "name": "3 star",
+                "count": 120
+            },
+            {
+                "name": "4 star",
+                "count": 250
+            },
+            {
+                "name": "5 star",
+                "count": 450
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "DailyPlanner",
+        "companyName": "OrganizeIt",
+        "id": 29,
+        "description": "Plan your day efficiently.\nTrack tasks and deadlines.\nSet reminders easily.\nSync across devices.\nStay productive daily.",
+        "size": 70,
+        "reviews": 470,
+        "ratingAvg": 4.4,
+        "downloads": 140000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "3 star",
+                "count": 90
+            },
+            {
+                "name": "4 star",
+                "count": 150
+            },
+            {
+                "name": "5 star",
+                "count": 200
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "GameZone",
+        "companyName": "FunPlay",
+        "id": 30,
+        "description": "Play multiplayer games.\nDaily challenges.\nTrack achievements.\nJoin tournaments.\nCompete with friends globally.",
+        "size": 240,
+        "reviews": 1020,
+        "ratingAvg": 4.7,
+        "downloads": 480000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 30
+            },
+            {
+                "name": "2 star",
+                "count": 40
+            },
+            {
+                "name": "3 star",
+                "count": 150
+            },
+            {
+                "name": "4 star",
+                "count": 350
+            },
+            {
+                "name": "5 star",
+                "count": 450
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "LanguageLearn",
+        "companyName": "PolyglotApps",
+        "id": 31,
+        "description": "Learn new languages fast.\nInteractive lessons and quizzes.\nPractice speaking daily.\nTrack learning progress.\nDaily language challenges.",
+        "size": 110,
+        "reviews": 540,
+        "ratingAvg": 4.5,
+        "downloads": 170000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 15
+            },
+            {
+                "name": "2 star",
+                "count": 25
+            },
+            {
+                "name": "3 star",
+                "count": 80
+            },
+            {
+                "name": "4 star",
+                "count": 180
+            },
+            {
+                "name": "5 star",
+                "count": 240
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "SmartHome",
+        "companyName": "HomeTech",
+        "id": 32,
+        "description": "Control smart devices.\nSet schedules and automations.\nMonitor home remotely.\nEnergy usage analytics.\nSecure your home easily.",
+        "size": 130,
+        "reviews": 430,
+        "ratingAvg": 4.4,
+        "downloads": 150000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "3 star",
+                "count": 90
+            },
+            {
+                "name": "4 star",
+                "count": 150
+            },
+            {
+                "name": "5 star",
+                "count": 160
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "PhotoEditPro",
+        "companyName": "EditLabs",
+        "id": 33,
+        "description": "Advanced photo editing tools.\nFilters and overlays.\nCrop, resize, rotate images.\nLayer management.\nShare edited photos easily.",
+        "size": 150,
+        "reviews": 580,
+        "ratingAvg": 4.5,
+        "downloads": 180000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 15
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "3 star",
+                "count": 100
+            },
+            {
+                "name": "4 star",
+                "count": 180
+            },
+            {
+                "name": "5 star",
+                "count": 265
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "WorkoutTracker",
+        "companyName": "FitLife",
+        "id": 34,
+        "description": "Track exercises daily.\nMonitor calories and heart rate.\nSet fitness goals.\nJoin workout challenges.\nAnalyze performance reports.",
+        "size": 115,
+        "reviews": 610,
+        "ratingAvg": 4.6,
+        "downloads": 210000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10
+            },
+            {
+                "name": "2 star",
+                "count": 25
+            },
+            {
+                "name": "3 star",
+                "count": 80
+            },
+            {
+                "name": "4 star",
+                "count": 200
+            },
+            {
+                "name": "5 star",
+                "count": 295
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "SleepWell",
+        "companyName": "HealthSoft",
+        "id": 35,
+        "description": "Monitor sleep quality.\nTrack sleep cycles.\nRelaxing sounds and alarms.\nDaily sleep reports.\nImprove overall rest.",
+        "size": 90,
+        "reviews": 420,
+        "ratingAvg": 4.3,
+        "downloads": 140000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10
+            },
+            {
+                "name": "2 star",
+                "count": 15
+            },
+            {
+                "name": "3 star",
+                "count": 70
+            },
+            {
+                "name": "4 star",
+                "count": 160
+            },
+            {
+                "name": "5 star",
+                "count": 165
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "TaskManager",
+        "companyName": "WorkFlow",
+        "id": 36,
+        "description": "Organize tasks effectively.\nSet priorities and deadlines.\nTrack project progress.\nCollaborate with team members.\nGet productivity insights.",
+        "size": 80,
+        "reviews": 500,
+        "ratingAvg": 4.4,
+        "downloads": 130000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "3 star",
+                "count": 80
+            },
+            {
+                "name": "4 star",
+                "count": 160
+            },
+            {
+                "name": "5 star",
+                "count": 230
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "VideoStream",
+        "companyName": "MediaFlow",
+        "id": 37,
+        "description": "Watch movies and series.\nHigh-quality streaming.\nOffline download support.\nCreate watchlists.\nGet personalized recommendations.",
+        "size": 200,
+        "reviews": 900,
+        "ratingAvg": 4.6,
+        "downloads": 400000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 20
+            },
+            {
+                "name": "2 star",
+                "count": 30
+            },
+            {
+                "name": "3 star",
+                "count": 120
+            },
+            {
+                "name": "4 star",
+                "count": 250
+            },
+            {
+                "name": "5 star",
+                "count": 480
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "CityGuide",
+        "companyName": "UrbanTravel",
+        "id": 38,
+        "description": "Discover city attractions.\nLocal restaurants and cafes.\nOffline maps available.\nTour recommendations.\nPlan city trips easily.",
+        "size": 120,
+        "reviews": 450,
+        "ratingAvg": 4.3,
+        "downloads": 120000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10
+            },
+            {
+                "name": "2 star",
+                "count": 15
+            },
+            {
+                "name": "3 star",
+                "count": 80
+            },
+            {
+                "name": "4 star",
+                "count": 160
+            },
+            {
+                "name": "5 star",
+                "count": 185
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "StudyHelper",
+        "companyName": "EduSmart",
+        "id": 39,
+        "description": "Access study materials.\nPractice quizzes and exams.\nTrack learning progress.\nCollaborate with classmates.\nDaily study reminders.",
+        "size": 95,
+        "reviews": 510,
+        "ratingAvg": 4.5,
+        "downloads": 160000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "3 star",
+                "count": 80
+            },
+            {
+                "name": "4 star",
+                "count": 180
+            },
+            {
+                "name": "5 star",
+                "count": 220
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "PhotoGallery",
+        "companyName": "PixGallery",
+        "id": 40,
+        "description": "Organize photos easily.\nCreate albums and slideshows.\nEdit and enhance images.\nShare with friends.\nBackup to cloud storage.",
+        "size": 110,
+        "reviews": 430,
+        "ratingAvg": 4.4,
+        "downloads": 140000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "3 star",
+                "count": 70
+            },
+            {
+                "name": "4 star",
+                "count": 150
+            },
+            {
+                "name": "5 star",
+                "count": 180
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "MindTrainer",
+        "companyName": "BrainBoost",
+        "id": 41,
+        "description": "Improve memory and focus.\nDaily brain exercises.\nTrack progress over time.\nChallenge friends daily.\nBoost cognitive abilities.",
+        "size": 100,
+        "reviews": 480,
+        "ratingAvg": 4.5,
+        "downloads": 150000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "3 star",
+                "count": 90
+            },
+            {
+                "name": "4 star",
+                "count": 160
+            },
+            {
+                "name": "5 star",
+                "count": 200
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "WorkoutPro",
+        "companyName": "FitExperts",
+        "id": 42,
+        "description": "Personalized workout plans.\nTrack calories and steps.\nVideo demonstrations.\nSet fitness goals.\nJoin challenges for motivation.",
+        "size": 130,
+        "reviews": 610,
+        "ratingAvg": 4.6,
+        "downloads": 220000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10
+            },
+            {
+                "name": "2 star",
+                "count": 25
+            },
+            {
+                "name": "3 star",
+                "count": 80
+            },
+            {
+                "name": "4 star",
+                "count": 200
+            },
+            {
+                "name": "5 star",
+                "count": 295
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "CookMaster",
+        "companyName": "TastyTech",
+        "id": 43,
+        "description": "Thousands of recipes.\nStep-by-step cooking guides.\nCreate shopping lists.\nSave favorite meals.\nShare with friends easily.",
+        "size": 100,
+        "reviews": 470,
+        "ratingAvg": 4.5,
+        "downloads": 170000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 5
+            },
+            {
+                "name": "2 star",
+                "count": 15
+            },
+            {
+                "name": "3 star",
+                "count": 90
+            },
+            {
+                "name": "4 star",
+                "count": 180
+            },
+            {
+                "name": "5 star",
+                "count": 180
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "CityExplorer",
+        "companyName": "TravelSmart",
+        "id": 44,
+        "description": "Explore local attractions.\nOffline maps available.\nRestaurant and cafe guides.\nPlan city trips easily.\nShare experiences with friends.",
+        "size": 120,
+        "reviews": 430,
+        "ratingAvg": 4.4,
+        "downloads": 130000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "3 star",
+                "count": 80
+            },
+            {
+                "name": "4 star",
+                "count": 150
+            },
+            {
+                "name": "5 star",
+                "count": 170
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "EduLearn",
+        "companyName": "SmartEdu",
+        "id": 45,
+        "description": "Interactive learning platform.\nQuizzes and lessons.\nTrack progress.\nCollaborate with classmates.\nDaily learning reminders.",
+        "size": 95,
+        "reviews": 510,
+        "ratingAvg": 4.5,
+        "downloads": 160000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "3 star",
+                "count": 80
+            },
+            {
+                "name": "4 star",
+                "count": 180
+            },
+            {
+                "name": "5 star",
+                "count": 220
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "PhotoFun",
+        "companyName": "PixFun",
+        "id": 46,
+        "description": "Capture moments instantly.\nApply fun filters.\nEdit and enhance images.\nCreate collages.\nShare with friends easily.",
+        "size": 120,
+        "reviews": 430,
+        "ratingAvg": 4.4,
+        "downloads": 140000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "3 star",
+                "count": 70
+            },
+            {
+                "name": "4 star",
+                "count": 150
+            },
+            {
+                "name": "5 star",
+                "count": 180
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "BrainGames",
+        "companyName": "MindPlay",
+        "id": 47,
+        "description": "Fun brain exercises.\nMemory and focus games.\nTrack progress over time.\nChallenge friends daily.\nImprove cognitive skills.",
+        "size": 100,
+        "reviews": 480,
+        "ratingAvg": 4.5,
+        "downloads": 150000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "3 star",
+                "count": 90
+            },
+            {
+                "name": "4 star",
+                "count": 160
+            },
+            {
+                "name": "5 star",
+                "count": 200
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "FitnessPal",
+        "companyName": "HealthTrack",
+        "id": 48,
+        "description": "Track workouts daily.\nMonitor calories burned.\nSet fitness goals.\nJoin community challenges.\nAnalyze weekly reports.",
+        "size": 115,
+        "reviews": 610,
+        "ratingAvg": 4.6,
+        "downloads": 220000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10
+            },
+            {
+                "name": "2 star",
+                "count": 25
+            },
+            {
+                "name": "3 star",
+                "count": 80
+            },
+            {
+                "name": "4 star",
+                "count": 200
+            },
+            {
+                "name": "5 star",
+                "count": 295
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "CookBookPro",
+        "companyName": "TastyApps",
+        "id": 49,
+        "description": "Thousands of recipes.\nStep-by-step cooking guides.\nCreate shopping lists.\nSave favorite meals.\nShare recipes with friends.",
+        "size": 100,
+        "reviews": 470,
+        "ratingAvg": 4.5,
+        "downloads": 170000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 5
+            },
+            {
+                "name": "2 star",
+                "count": 15
+            },
+            {
+                "name": "3 star",
+                "count": 90
+            },
+            {
+                "name": "4 star",
+                "count": 180
+            },
+            {
+                "name": "5 star",
+                "count": 180
+            }
+        ]
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "title": "TripPlanner",
+        "companyName": "TravelSmart",
+        "id": 50,
+        "description": "Plan trips efficiently.\nBook flights and hotels.\nGet local guides.\nTrack itineraries.\nShare travel experiences.",
+        "size": 130,
+        "reviews": 460,
+        "ratingAvg": 4.4,
+        "downloads": 150000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "3 star",
+                "count": 80
+            },
+            {
+                "name": "4 star",
+                "count": 150
+            },
+            {
+                "name": "5 star",
+                "count": 200
+            }
+        ]
+    }
+]
