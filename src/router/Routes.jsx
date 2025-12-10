@@ -3,6 +3,7 @@ import RootLayout from "../root/RootLayout";
 import Home from "../pages/Home";
 import AppsSection from "../pages/AppsSection";
 import AppDetails from "../pages/AppDetails";
+import ErrorPage from "../pages/ErrorPage";
 const router = createBrowserRouter([
     {
         path: "/",
@@ -20,6 +21,10 @@ const router = createBrowserRouter([
                 path: "/apps/:id",
                 element: <AppDetails />
             },
+            {
+                path: "*",
+                element: <ErrorPage />,
+            }
         ]
     },
 ]);
