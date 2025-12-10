@@ -1,11 +1,13 @@
 import React, { useEffect, useState } from 'react';
+import { useNavigate } from "react-router-dom";
 import dImg from '../assets/icon-downloads.png';
 import rImg from '../assets/icon-ratings.png';
-import noAppImg from '../assets/App-Error.png'; 
+import noAppImg from '../assets/App-Error.png';
 
 const AppsSection = () => {
     const [apps, setApps] = useState([]);
     const [searchTerm, setSearchTerm] = useState('');
+    const navigate = useNavigate();
 
     useEffect(() => {
         fetch('./apps.json')
@@ -14,7 +16,6 @@ const AppsSection = () => {
             .catch(err => console.log(err))
     }, []);
 
-    // Filter apps based on search term (case-insensitive)
     const filteredApps = apps.filter(app =>
         app.title.toLowerCase().includes(searchTerm.toLowerCase())
     );
@@ -62,7 +63,10 @@ const AppsSection = () => {
                 {filteredApps.length > 0 ? (
                     <div className='grid grid-cols-1 lg:grid-cols-4 mt-12 gap-10'>
                         {filteredApps.map(app => (
-                            <div key={app.id} className="card bg-base-100 w-[250px] shadow-sm hover:bg-white/20 hover:scale-105 transition-all duration-300 cursor-pointer">
+                            <div key={app.id}
+                                className="card bg-base-100 w-[250px] shadow-sm hover:bg-white/20 hover:scale-105 transition-all duration-300 cursor-pointer"
+                                onClick={() => navigate(`/apps/${app.id}`)}
+                            >
                                 <figure>
                                     <img className='w-full h-[200px] object-cover' src={app?.image} alt={app?.title} />
                                 </figure>
