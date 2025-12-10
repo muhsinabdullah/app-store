@@ -1,85 +1,90 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState } from "react";
+import dImg from "../assets/icon-downloads.png";
+import rImg from "../assets/icon-ratings.png";
+import noAppImg from "../assets/App-Error.png";
+import Loading from "../components/Loading"; // Your loading spinner component
 import { useNavigate } from "react-router-dom";
-import dImg from '../assets/icon-downloads.png';
-import rImg from '../assets/icon-ratings.png';
-import noAppImg from '../assets/App-Error.png';
 
 const AppsSection = () => {
     const [apps, setApps] = useState([]);
-    const [searchTerm, setSearchTerm] = useState('');
+    const [searchTerm, setSearchTerm] = useState("");
+    const [loading, setLoading] = useState(false);
     const navigate = useNavigate();
 
+
     useEffect(() => {
-        fetch('./apps.json')
-            .then(res => res.json())
-            .then(data => setApps(data))
-            .catch(err => console.log(err))
+        setLoading(true);
+        fetch("/apps.json")
+            .then((res) => res.json())
+            .then((data) => {
+                setApps(data);
+                setLoading(false);
+            })
+            .catch((err) => {
+                console.log(err);
+                setLoading(false);
+            });
     }, []);
 
-    const filteredApps = apps.filter(app =>
+    const filteredApps = apps.filter((app) =>
         app.title.toLowerCase().includes(searchTerm.toLowerCase())
     );
+
+    const handleSearch = (e) => {
+        setSearchTerm(e.target.value);
+        setLoading(true);
+
+
+        setTimeout(() => setLoading(false), 500);
+    };
 
     return (
         <div>
             <div>
-                <h1 className='text-4xl font-bold text-center mt-5'>Our All Applications</h1>
-                <p className='text-[#627382] text-center mt-3'>Explore All Apps on the Market developed by us. We code for Millions</p>
+                <h1 className="text-4xl font-bold text-center mt-5">Our All Applications</h1>
+                <p className="text-[#627382] text-center mt-3">
+                    Explore all apps on the market developed by us. We code for Millions.
+                </p>
             </div>
 
-            <div className='flex justify-between px-[135px] mt-5'>
-                {/* Total apps */}
-                <div>
-                    <h1 className='text-2xl font-bold'>({filteredApps.length}) Apps Found</h1>
-                </div>
+            <div className="flex flex-col lg:flex-row justify-between px-10 mt-5 items-center gap-4">
+                <h1 className="text-2xl font-bold">({filteredApps.length}) Apps Found</h1>
 
-                {/* Search bar */}
-                <div>
-                    <label className="input">
-                        <svg className="h-[1em] opacity-50" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                            <g
-                                strokeLinejoin="round"
-                                strokeLinecap="round"
-                                strokeWidth="2.5"
-                                fill="none"
-                                stroke="currentColor"
-                            >
-                                <circle cx="11" cy="11" r="8"></circle>
-                                <path d="m21 21-4.3-4.3"></path>
-                            </g>
-                        </svg>
-                        <input
-                            type="search"
-                            required
-                            placeholder="Search"
-                            value={searchTerm}
-                            onChange={(e) => setSearchTerm(e.target.value)}
-                        />
-                    </label>
+                <div className="relative w-full lg:w-1/3">
+                    <input
+                        type="search"
+                        placeholder="Search"
+                        value={searchTerm}
+                        onChange={handleSearch}
+                        className="w-full border border-gray-300 rounded px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500"
+                    />
                 </div>
             </div>
 
-            <div className='px-[145px]'>
-                {filteredApps.length > 0 ? (
-                    <div className='grid grid-cols-1 lg:grid-cols-4 mt-12 gap-10'>
-                        {filteredApps.map(app => (
-                            <div key={app.id}
-                                className="card bg-base-100 w-[250px] shadow-sm hover:bg-white/20 hover:scale-105 transition-all duration-300 cursor-pointer"
+            <div className="px-5 lg:px-20 mt-10">
+                {loading ? (
+                    <Loading />
+                ) : filteredApps.length > 0 ? (
+                    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
+                        {filteredApps.map((app) => (
+                            <div
+                                key={app.id}
+                                className="card bg-base-100 shadow-sm hover:scale-105 transition-all duration-300 cursor-pointer"
                                 onClick={() => navigate(`/apps/${app.id}`)}
                             >
                                 <figure>
-                                    <img className='w-full h-[200px] object-cover' src={app?.image} alt={app?.title} />
+                                    <img className="w-full h-[200px] object-cover" src={app.image} alt={app.title} />
                                 </figure>
                                 <div className="card-body">
-                                    <h2 className="card-title">{app?.title}</h2>
-                                    <div className="card-actions justify-between">
-                                        <div className="flex items-center">
-                                            <img className='w-4 h-4' src={dImg} alt="" />
-                                            <p className='badge badge-soft badge-accent'>{app?.downloads}</p>
+                                    <h2 className="card-title">{app.title}</h2>
+                                    <div className="flex justify-between mt-2">
+                                        <div className="flex items-center gap-2">
+                                            <img src={dImg} alt="Downloads" className="w-4 h-4" />
+                                            <p>{app.downloads}</p>
                                         </div>
-                                        <div className="flex items-center">
-                                            <img className='w-4 h-4' src={rImg} alt="" />
-                                            <p className='badge badge-soft badge-warning'>{app?.ratingAvg}</p>
+                                        <div className="flex items-center gap-2">
+                                            <img src={rImg} alt="Rating" className="w-4 h-4" />
+                                            <p>{app.ratingAvg}</p>
                                         </div>
                                     </div>
                                 </div>

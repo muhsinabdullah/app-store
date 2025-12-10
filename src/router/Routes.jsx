@@ -7,6 +7,7 @@ import RootLayout from "../root/RootLayout";
 const Home = lazy(() => import("../pages/Home"));
 const AppsSection = lazy(() => import("../pages/AppsSection"));
 const AppDetails = lazy(() => import("../pages/AppDetails"));
+const MyInstallation = lazy(() => import("../pages/MyInstallation"))
 const ErrorPage = lazy(() => import("../pages/ErrorPage"));
 const router = createBrowserRouter([
     {
@@ -24,6 +25,10 @@ const router = createBrowserRouter([
             {
                 path: "/apps/:id",
                 element: <AppDetails />
+            },
+            {
+                path: "/my-installation",
+                element: <MyInstallation />
             },
             {
                 path: "*",
