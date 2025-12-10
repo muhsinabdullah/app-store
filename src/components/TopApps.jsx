@@ -50,7 +50,7 @@ const TopApps = () => {
                 </div>
             </div>
             <div className="flex justify-center items-center mt-5">
-                <Link to="/">
+                <Link to="/apps">
                     <button className="btn btn bg-gradient-to-r from-purple-700 to-purple-500 text-white">
                         View all
                     </button>
