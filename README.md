@@ -1,16 +1,24 @@
-# React + Vite
+# HERO.IO
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+**HERO.IO** is a React-based web application that allows users to explore, install, and manage applications. Users can view app details, install apps with a single click, track installed apps, uninstall them, and sort apps by downloads. The application features responsive design, localStorage integration, toast notifications, and interactive charts for app reviews.
 
-Currently, two official plugins are available:
+### Key Features
+- Browse all available apps.
+- View app details including downloads, rating, and size.
+- Install apps and save installations in localStorage.
+- Manage installed apps in a **My Installation** page.
+- Uninstall apps with toast notifications.
+- Sort installed apps by download count (High → Low / Low → High).
+- Responsive and modern UI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- **React** - Frontend library for building UI components.
+- **Vite** - Fast React development environment.
+- **React Router** - Routing for multiple pages.
+- **Tailwind CSS** - Utility-first CSS framework for styling.
+- **React Toastify** - Toast notifications for user actions.
+- **Recharts** - Charting library for visualizing app review data.
+- **localStorage** - Browser storage to save installed apps.
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
