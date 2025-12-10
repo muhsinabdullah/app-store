@@ -1,9 +1,13 @@
 import { createBrowserRouter } from "react-router";
+import { lazy } from "react";
 import RootLayout from "../root/RootLayout";
-import Home from "../pages/Home";
-import AppsSection from "../pages/AppsSection";
-import AppDetails from "../pages/AppDetails";
-import ErrorPage from "../pages/ErrorPage";
+
+
+// Lazy load pages
+const Home = lazy(() => import("../pages/Home"));
+const AppsSection = lazy(() => import("../pages/AppsSection"));
+const AppDetails = lazy(() => import("../pages/AppDetails"));
+const ErrorPage = lazy(() => import("../pages/ErrorPage"));
 const router = createBrowserRouter([
     {
         path: "/",
