@@ -31,7 +31,14 @@ const Navbar = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-                <Link className="btn bg-gradient-to-r from-purple-700 to-purple-500 text-white"><FaGithub />Contribution</Link>
+                <a
+                    href="https://github.com/muhsinabdullah"
+                    target="_blank"  
+                    rel="noopener noreferrer"
+                    className="btn bg-gradient-to-r from-purple-700 to-purple-500 text-white flex items-center gap-2"
+                >
+                    <FaGithub /> Contribution
+                </a>
             </div>
 
         </div>

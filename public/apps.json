@@ -1,0 +1,453 @@
+[
+  {
+    "image": "https://i.ibb.co.com/jkpQC8mD/demo-app-1.webp",
+    "title": "AppMaster",
+    "companyName": "SoftEdge Labs",
+    "id": 1,
+    "description": "AppMaster is designed to provide users with seamless task management tools. It helps you stay organized and enhances productivity through automated reminders and smart sorting.\nAppMaster includes a variety of customization options, allowing users to tailor their workspace according to their workflow. You can easily categorize tasks and collaborate with others.\nThe app supports cloud syncing, ensuring your tasks remain updated across all devices. With offline mode, you can continue working even without internet access.",
+    "size": 85,
+    "reviews": 5400,
+    "ratingAvg": 4.6,
+    "downloads": 120000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 230 },
+      { "name": "3 star", "count": 640 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 2910 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/cs9TKYH/D1.jpg",
+    "title": "BlendPro",
+    "companyName": "PixelMatrix",
+    "id": 2,
+    "description": "BlendPro is a professional image-blending app designed for graphic creators and editors. It offers advanced blending modes and creative filters.\nUsers can create multi-layer designs using intuitive controls. The app ensures high-quality rendering and seamless editing.\nBlendPro also allows exporting in various formats, making it suitable for both beginners and professionals.",
+    "size": 92,
+    "reviews": 4220,
+    "ratingAvg": 4.4,
+    "downloads": 98000,
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 330 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1420 },
+      { "name": "5 star", "count": 1560 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/ccP58GBQ/D2.jpg",
+    "title": "ChatConnect",
+    "companyName": "NextWave Systems",
+    "id": 3,
+    "description": "ChatConnect brings people closer with seamless messaging capabilities. It supports high-speed delivery and real-time notification features.\nYou can create groups, share files, and enjoy voice and video communication. The interface is clean and simple to navigate.\nThe app encrypts all chats for enhanced privacy and includes backup options for message history.",
+    "size": 110,
+    "reviews": 6100,
+    "ratingAvg": 4.7,
+    "downloads": 260000,
+    "ratings": [
+      { "name": "1 star", "count": 190 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 770 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 3080 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/0yxsM5rF/D3.jpg",
+    "title": "DocuStore",
+    "companyName": "CloudSync LLC",
+    "id": 4,
+    "description": "DocuStore is a secure cloud-based storage solution for documents, images, and videos. It ensures safe storage with encrypted protection.\nUsers can organize files using tags and smart folders. Files can be accessed anytime from any device.\nThe app features automatic backup, version history, and collaborative sharing tools.",
+    "size": 150,
+    "reviews": 9800,
+    "ratingAvg": 4.5,
+    "downloads": 330000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 450 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 5250 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/MyShr1NW/D4.jpg",
+    "title": "EduTrack",
+    "companyName": "LearnEdge Corp",
+    "id": 5,
+    "description": "EduTrack helps students monitor progress across different subjects. It includes study planners and smart performance charts.\nThe app provides detailed analytics and recommendations to improve learning outcomes.\nParents and teachers can also track student activities using secure linked profiles.",
+    "size": 80,
+    "reviews": 2500,
+    "ratingAvg": 4.3,
+    "downloads": 70000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 420 },
+      { "name": "4 star", "count": 880 },
+      { "name": "5 star", "count": 900 }
+    ]
+  },
+
+  {
+    "image": "https://i.ibb.co.com/xtcmxD7p/demo-app-5.webp",
+    "title": "FitJourney",
+    "companyName": "HealthSphere",
+    "id": 6,
+    "description": "FitJourney motivates users to maintain a healthy lifestyle. It includes personalized workout plans and nutrition tracking.\nThe app analyzes user activity using smart sensors and provides performance insights.\nFitJourney also offers challenges and badges to encourage daily fitness activities.",
+    "size": 105,
+    "reviews": 7300,
+    "ratingAvg": 4.8,
+    "downloads": 410000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 220 },
+      { "name": "3 star", "count": 540 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 4890 }
+    ]
+  },
+
+  {
+    "image": "https://i.ibb.co.com/tkjrMyw/demo-app-4.webp",
+    "title": "GameZone",
+    "companyName": "AlphaFun Studios",
+    "id": 7,
+    "description": "GameZone brings together thousands of mini-games into one platform. It provides access to action, puzzle, racing, and strategy games.\nPlayers can compete globally through leaderboards and tournaments.\nThe app is optimized for smooth gameplay and includes offline support for selected games.",
+    "size": 250,
+    "reviews": 12200,
+    "ratingAvg": 4.6,
+    "downloads": 600000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 620 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 3100 },
+      { "name": "5 star", "count": 4780 }
+    ]
+  },
+
+  {
+    "image": "https://i.ibb.co.com/1Gycxsv7/demo-app-3.webp",
+    "title": "HealthGuard",
+    "companyName": "BioTech Apps",
+    "id": 8,
+    "description": "HealthGuard is a medical monitoring app designed to track vital signs and health records. It syncs with wearable devices for continuous monitoring.\nThe app provides alerts for abnormal readings and offers personalized health advice.\nReports can be shared with doctors and family members securely.",
+    "size": 140,
+    "reviews": 5400,
+    "ratingAvg": 4.5,
+    "downloads": 200000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 230 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 2790 }
+    ]
+  },
+
+  {
+    "image": "https://i.ibb.co.com/ZRMnbmHy/demo-app-2.webp",
+    "title": "IdeaFlow",
+    "companyName": "CreativeHive",
+    "id": 9,
+    "description": "IdeaFlow is a creativity-boosting platform for brainstorming and mind mapping. It helps users visualize concepts through flowcharts.\nYou can collaborate with teams in real-time and sync your projects across devices.\nIdeaFlow also includes templates for planning, strategy, and learning.",
+    "size": 95,
+    "reviews": 3500,
+    "ratingAvg": 4.2,
+    "downloads": 130000,
+    "ratings": [
+      { "name": "1 star", "count": 160 },
+      { "name": "2 star", "count": 210 },
+      { "name": "3 star", "count": 460 },
+      { "name": "4 star", "count": 1120 },
+      { "name": "5 star", "count": 1550 }
+    ]
+  },
+
+  {
+    "image": "https://i.ibb.co.com/jkpQC8mD/demo-app-1.webp",
+    "title": "JourneyMaps",
+    "companyName": "GlobalTrack",
+    "id": 10,
+    "description": "JourneyMaps simplifies navigation with powerful routing and offline maps. It detects traffic conditions in real time.\nUsers can download regions and navigate without a data connection.\nThe app includes turn-by-turn voice guidance and alternative route suggestions.",
+    "size": 200,
+    "reviews": 15200,
+    "ratingAvg": 4.7,
+    "downloads": 900000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 770 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 9330 }
+    ]
+  },
+
+  {
+    "image": "https://i.ibb.co.com/cs9TKYH/D1.jpg",
+    "title": "KidLearn",
+    "companyName": "EduSoft",
+    "id": 11,
+    "description": "KidLearn is designed for children to learn letters, shapes, math, and more through fun games. It keeps kids engaged with animations.\nParents can track progress and adjust difficulty levels as needed.\nThe app promotes early development and interactive learning.",
+    "size": 70,
+    "reviews": 2100,
+    "ratingAvg": 4.1,
+    "downloads": 50000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 170 },
+      { "name": "3 star", "count": 380 },
+      { "name": "4 star", "count": 780 },
+      { "name": "5 star", "count": 670 }
+    ]
+  },
+
+  {
+    "image": "https://i.ibb.co.com/ccP58GBQ/D2.jpg",
+    "title": "LiveStreamX",
+    "companyName": "StreamPro Media",
+    "id": 12,
+    "description": "LiveStreamX allows creators to broadcast live content globally. It offers HD streaming with minimal delay.\nYou can engage your audience with real-time comments and reactions.\nThe app also supports monetization through memberships and gifts.",
+    "size": 120,
+    "reviews": 8200,
+    "ratingAvg": 4.4,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 260 },
+      { "name": "2 star", "count": 340 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 4800 }
+    ]
+  },
+
+  {
+    "image": "https://i.ibb.co.com/0yxsM5rF/D3.jpg",
+    "title": "MusicBox",
+    "companyName": "Harmony Digital",
+    "id": 13,
+    "description": "MusicBox lets you stream millions of tracks from various genres. It includes smart playlists and mood-based recommendations.\nUsers can download songs offline and share playlists with friends.\nThe app delivers high-quality audio and supports customizable equalizer settings.",
+    "size": 135,
+    "reviews": 17400,
+    "ratingAvg": 4.8,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 450 },
+      { "name": "2 star", "count": 620 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 4700 },
+      { "name": "5 star", "count": 10430 }
+    ]
+  },
+
+  {
+    "image": "https://i.ibb.co.com/MyShr1NW/D4.jpg",
+    "title": "NoteMaster",
+    "companyName": "NoteWorks",
+    "id": 14,
+    "description": "NoteMaster is a flexible note-taking app for students and professionals. It supports handwriting, typing, and voice notes.\nNotes can be organized with tags, folders, and color coding.\nThe app syncs across devices and includes PDF exporting.",
+    "size": 95,
+    "reviews": 4300,
+    "ratingAvg": 4.6,
+    "downloads": 180000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 410 },
+      { "name": "4 star", "count": 1290 },
+      { "name": "5 star", "count": 2250 }
+    ]
+  },
+
+  {
+    "image": "https://i.ibb.co.com/xtcmxD7p/demo-app-5.webp",
+    "title": "PhotoMaster",
+    "companyName": "Pixely Inc",
+    "id": 15,
+    "description": "PhotoMaster brings professional-grade photo editing tools to your device. It includes filters, color grading, and retouch tools.\nUsers can adjust brightness, remove background, and apply presets.\nThe app supports high-resolution exports and batch editing.",
+    "size": 120,
+    "reviews": 5400,
+    "ratingAvg": 4.5,
+    "downloads": 250000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 310 },
+      { "name": "3 star", "count": 710 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 2680 }
+    ]
+  },
+
+  {
+    "image": "https://i.ibb.co.com/tkjrMyw/demo-app-4.webp",
+    "title": "QuickCalc",
+    "companyName": "SoftEdge Labs",
+    "id": 16,
+    "description": "QuickCalc is a fast and simple calculator app with scientific features built-in. It supports advanced functions including trigonometry.\nThe interface is clean and distraction-free for quick calculations.\nUsers can also save history and reuse previous expressions.",
+    "size": 42,
+    "reviews": 1900,
+    "ratingAvg": 4.2,
+    "downloads": 75000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 140 },
+      { "name": "3 star", "count": 350 },
+      { "name": "4 star", "count": 670 },
+      { "name": "5 star", "count": 650 }
+    ]
+  },
+
+  {
+    "image": "https://i.ibb.co.com/1Gycxsv7/demo-app-3.webp",
+    "title": "RideNow",
+    "companyName": "UrbanMove",
+    "id": 17,
+    "description": "RideNow connects users with nearby drivers for quick and safe rides. It ensures transparent pricing and secure payments.\nYou can track rides in real-time and share location with family.\nThe app provides premium ride options for more comfort.",
+    "size": 160,
+    "reviews": 13400,
+    "ratingAvg": 4.7,
+    "downloads": 800000,
+    "ratings": [
+      { "name": "1 star", "count": 480 },
+      { "name": "2 star", "count": 590 },
+      { "name": "3 star", "count": 1250 },
+      { "name": "4 star", "count": 3100 },
+      { "name": "5 star", "count": 7980 }
+    ]
+  },
+
+  {
+    "image": "https://i.ibb.co.com/ZRMnbmHy/demo-app-2.webp",
+    "title": "ScanPro",
+    "companyName": "Digitize Corp",
+    "id": 18,
+    "description": "ScanPro transforms your device into a portable scanner. It captures documents clearly and converts them into PDF format.\nUsers can crop, rotate, and enhance scans automatically.\nThe app supports cloud upload and easy sharing options.",
+    "size": 55,
+    "reviews": 4500,
+    "ratingAvg": 4.4,
+    "downloads": 200000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 520 },
+      { "name": "4 star", "count": 1450 },
+      { "name": "5 star", "count": 2110 }
+    ]
+  },
+
+  {
+    "image": "https://i.ibb.co.com/jkpQC8mD/demo-app-1.webp",
+    "title": "TaskFlow",
+    "companyName": "WorkSuite",
+    "id": 19,
+    "description": "TaskFlow helps teams collaborate efficiently with board-style task management. It supports deadlines, labels, and attachments.\nYou can assign tasks to team members and monitor progress visually.\nThe app also includes automation features for repetitive workflows.",
+    "size": 115,
+    "reviews": 7300,
+    "ratingAvg": 4.6,
+    "downloads": 340000,
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 670 },
+      { "name": "4 star", "count": 1890 },
+      { "name": "5 star", "count": 4230 }
+    ]
+  },
+
+  {
+    "image": "https://i.ibb.co.com/cs9TKYH/D1.jpg",
+    "title": "UltraPlayer",
+    "companyName": "MediaMax",
+    "id": 20,
+    "description": "UltraPlayer is an all-in-one media player supporting video and audio formats. It includes advanced playback controls.\nUsers can customize equalizer settings and stream network videos.\nThe app also features subtitle support and gesture controls.",
+    "size": 70,
+    "reviews": 6100,
+    "ratingAvg": 4.3,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 260 },
+      { "name": "2 star", "count": 330 },
+      { "name": "3 star", "count": 640 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 3270 }
+    ]
+  },
+
+  {
+    "image": "https://i.ibb.co.com/ccP58GBQ/D2.jpg",
+    "title": "VisionEditor",
+    "companyName": "CreativeWorks",
+    "id": 21,
+    "description": "VisionEditor provides next-level video editing with multi-track timelines. It supports transitions, effects, and color correction.\nUsers can work with 4K exports and smooth rendering performance.\nThe app includes templates for quick video creation.",
+    "size": 175,
+    "reviews": 9200,
+    "ratingAvg": 4.5,
+    "downloads": 420000,
+    "ratings": [
+      { "name": "1 star", "count": 310 },
+      { "name": "2 star", "count": 420 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 4470 }
+    ]
+  },
+
+  {
+    "image": "https://i.ibb.co.com/0yxsM5rF/D3.jpg",
+    "title": "WeatherCast",
+    "companyName": "SkyTech",
+    "id": 22,
+    "description": "WeatherCast delivers live weather updates and forecasts with high accuracy. It provides hourly and weekly insights.\nUsers can track storms, rainfall, and temperature changes using radar maps.\nThe app also includes alerts for severe weather conditions.",
+    "size": 60,
+    "reviews": 5600,
+    "ratingAvg": 4.2,
+    "downloads": 220000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 590 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 2950 }
+    ]
+  },
+
+  {
+    "image": "https://i.ibb.co.com/MyShr1NW/D4.jpg",
+    "title": "XploreFiles",
+    "companyName": "DataBox",
+    "id": 23,
+    "description": "XploreFiles is a powerful file management tool offering quick search and sorting options. It supports ZIP extraction and secure folders.\nUsers can organize files through drag-and-drop functionality.\nThe app also includes cloud sync support for easy backup.",
+    "size": 85,
+    "reviews": 3700,
+    "ratingAvg": 4.3,
+    "downloads": 110000,
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 450 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 1720 }
+    ]
+  },
+
+  {
+    "image": "https://i.ibb.co.com/xtcmxD7p/demo-app-5.webp",
+    "title": "ZenDesk",
+    "companyName": "RelaxTech",
+    "id": 24,
+    "description": "ZenDesk is a meditation and stress relief app offering calming music and guided sessions. It helps users maintain emotional balance.\nThe app includes breathing exercises and nature sounds for relaxation.\nDaily reminders encourage users to create a peaceful routine.",
+    "size": 65,
+    "reviews": 4200,
+    "ratingAvg": 4.6,
+    "downloads": 150000,
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 190 },
+      { "name": "3 star", "count": 360 },
+      { "name": "4 star", "count": 1080 },
+      { "name": "5 star", "count": 2430 }
+    ]
+  }
+]
